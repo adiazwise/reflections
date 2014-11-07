@@ -1,0 +1,2 @@
+1)I didnt know nothing about diff commands from git,currently  I'm using a plugin with sublime text 
+2)How 
